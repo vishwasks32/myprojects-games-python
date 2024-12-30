@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Author: Vishwas K Singh
 # Email: vishwasks32@gmail.com
-# Script for hangman game version 0.1
+# Script for hangman game version 3.0
 import random
 
 def load_words(fl_nme):
